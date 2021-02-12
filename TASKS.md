@@ -3,19 +3,22 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name:
+* Your company's name: PersonalCycling
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
-* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue): Harley-Davidson Inc (5,900),Varroc Lighting Systems (4,200), Fox Factory Holding Corp Inc (1,700)
+*** 
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 1,101
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* List of your company's primary activities divided into engineering activities and operations activities:  
+
+Engineering --> Research, desing the product
+Operations --> Product development, selling, distribution, setting printer on
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
-***
-* List of your company's support activities:
+* List of your company's support activities: Management, finance, human resources
 ***
 
 ## Task 2
