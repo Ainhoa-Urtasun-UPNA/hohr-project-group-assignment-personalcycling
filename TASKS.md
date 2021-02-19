@@ -40,10 +40,16 @@ Operations --> Product development, selling, distribution, setting printer on
 * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(75)
 * Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do. (75)
 * Speaking — Talking to others to convey information effectively. (75)
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+* 5 technology skills:* Accounting software
+* Analytical or scientific software
+* Business intelligence and data analysis software
+* Customer relationship management CRM software
+* Data base user interface and query software
+* Education: Bachelor's degree (29)
+* Some college, no degree (19)
+* High school diploma or equivalent (15)
+* Wages: $48.45 hourly, $100,780 annual
+* Top industry: Retail Trade (12% employed in this sector)
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
