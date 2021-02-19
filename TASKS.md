@@ -27,23 +27,23 @@ Operations --> Product development, selling, distribution, setting printer on
 ### Managers
 * ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement
-* Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
-* Direct administrative activities directly related to making products or providing services.
-* Prepare staff work schedules and assign specific duties.
-* Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement (77)
+* Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. (76)
+* Direct administrative activities directly related to making products or providing services. (75)
+* Prepare staff work schedules and assign specific duties. (73)
+* Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. (72)
+* Is this job routine? Your judgment (0-10): 
+* Is this job cognitive? Your judgment (0-10): 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (75)
+* Coordination — Adjusting actions in relation to others' actions. (75)
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(75)
+* Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do. (75)
+* Speaking — Talking to others to convey information effectively. (75)
 * 5 technology skills:
-* Accounting software
-* Analytical or scientific software
-* Business intelligence and data analysis software
-* Customer relationship management CRM software
-* Data base user interface and query softwar
 * Education:
-* Wages: $48.45 hourly, $100,780 annual
-* Top industry: Retail Trade (12% employed in this sector)
+* Wages:
+* Top industry:
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
