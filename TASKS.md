@@ -52,16 +52,30 @@ Operations --> Product development, selling, distribution, setting printer on
 * Wages: $48.45 hourly, $100,780 annual
 * Top industry: Retail Trade (12% employed in this sector)
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 17-3026.00 - Industrial Engineering Technologists and Technicians
 * 5 most important tasks they carry out (provide the importance score, in Details):
-
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+Test selected products at specified stages in the production process for performance characteristics or adherence to specifications. (67)
+Compile and evaluate statistical data to determine and maintain quality and reliability of products. (67)
+Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency. (63)
+Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications. (61)
+Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance. (60)
+* Is this job routine? Your judgment (0-10): 8/10 Even if he/she must be prepared to solve any problem, it is true that the procedure of the printer/ design is basically the same for each customer/item
+* Is this job cognitive? Your judgment (0-10): 9/10 the person who is in charge of this job must have the knowledge and ability required
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. (75)
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (72)
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (72)
+* Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (69)
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. (60)
 * 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+* Analytical or scientific software
+* Computer aided design CAD software
+* Computer aided manufacturing CAM software 
+* Development environment software
+* Electronic mail software
+* Education:   37   	Some college, no degree
+* Wages:$27.19 hourly, $56,550 annual
+* Top industry: Manufacturing (79% employed in this sector)
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
