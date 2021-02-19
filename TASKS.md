@@ -33,7 +33,7 @@ Operations --> Product development, selling, distribution, setting printer on
 * Prepare staff work schedules and assign specific duties.
 * Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
 * Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10): kdjfhgsjkfhgsakfg
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
 * Accounting software
