@@ -33,7 +33,8 @@ Operations --> Product development, selling, distribution, setting printer on
 * Prepare staff work schedules and assign specific duties. (73)
 * Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. (72)
 * Is this job routine? Your judgment (0-10): 
-* Is this job cognitive? Your judgment (0-10): 
+*  6/10. As we are a small company, the manager does not face many challenges that some big companies may face. However, it is true that it should be prepare to any change in the market.
+* Is this job cognitive? Your judgment (0-10): 9/10. We believe that the manager of the company must have the knowledge to run the business. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (75)
 * Coordination — Adjusting actions in relation to others' actions. (75)
