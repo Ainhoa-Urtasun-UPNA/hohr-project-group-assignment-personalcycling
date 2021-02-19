@@ -36,9 +36,14 @@ Operations --> Product development, selling, distribution, setting printer on
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
+* Accounting software
+* Analytical or scientific software
+* Business intelligence and data analysis software
+* Customer relationship management CRM software
+* Data base user interface and query softwar
 * Education:
-* Wages:
-* Top industry:
+* Wages: $48.45 hourly, $100,780 annual
+* Top industry: Retail Trade (12% employed in this sector)
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
