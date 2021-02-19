@@ -3,11 +3,9 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name: PersonalCycling
-* 
+* Your company's name: PersonalCycling. Our intention is to produceand offer customized products or items related to cycling. Such as cycling saddles, handlebars, special shoes, baskets...
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991  - Motorcycle, Bicycle, and Parts Manufacturing. 
-* This U.S. industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, tricycles and similar equipment, and parts.
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
@@ -27,8 +25,13 @@ Operations --> Product development, selling, distribution, setting printer on
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement
+* Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
+* Direct administrative activities directly related to making products or providing services.
+* Prepare staff work schedules and assign specific duties.
+* Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
@@ -39,6 +42,7 @@ Operations --> Product development, selling, distribution, setting printer on
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
+
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
