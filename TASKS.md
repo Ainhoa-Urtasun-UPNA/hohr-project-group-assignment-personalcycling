@@ -59,7 +59,7 @@ Compile and evaluate statistical data to determine and maintain quality and reli
 Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency. (63)
 Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications. (61)
 Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance. (60)
-* Is this job routine? Your judgment (0-10): 8/10 Even if he/she must be prepared to solve any problem, it is true that the procedure of the printer/ design is basically the same for each customer/item
+* Is this job routine? Your judgment (0-10): 5/10  He/she must be prepared to solve any problem, design the product with creativity and make technical decisions. However, it is true that once those desingning taks and decisins have been made procedure of the printer/ design is basically the same for each customer/item
 * Is this job cognitive? Your judgment (0-10): 9/10 the person who is in charge of this job must have the knowledge and ability required
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents. (75)
@@ -77,15 +77,34 @@ Verify that equipment is being operated and maintained according to quality assu
 * Wages:$27.19 hourly, $56,550 annual
 * Top industry: Manufacturing (79% employed in this sector)
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 51-4081.00 - Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* Observe machine operation to detect workpiece defects or machine malfunctions, adjusting machines as necessary. (88)
+* Set up and operate machines, such as lathes, cutters, shears, borers, millers, grinders, presses, drills, or auxiliary machines, to make metallic and plastic workpieces.(86)
+* Inspect workpieces for defects, and measure workpieces to determine accuracy of machine operation, using rules, templates, or other measuring instruments (83)
+* Read blueprints or job orders to determine product specifications and tooling instructions and to plan operational sequences.(81)
+* Start machines and turn handwheels or valves to engage feeding, cooling, and lubricating mechanisms. (80)
+* Is this job routine? Your judgment (0-10): 9/10 the workers task are very repetitive and does not requiered any creativity or decision making, as a general rule.
+* Is this job cognitive? Your judgment (0-10): 5/10 even if the worker must have some basic knowledge, it requieres training. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. (72)
+* Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. (60)
+* Operation and Control — Controlling operations of equipment or systems. (56)
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. (53)
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. (53)
 * 5 technology skills:
+* Computer aided design CAD software
+* Data base user interface and query software
+* Electronic mail software
+* Enterprise resource planning ERP software
+* Office suite software
 * Education:
-* Wages:
-* Top industry:
+* 56   	High school diploma or equivalent
+25   	Post-secondary certificate 
+16   	Less than high school diploma
+* Wages: $17.47 hourly, $36,330 annual
+* Top industry: Manufacturing (83% employed in this sector)
+Administrative and Support Services (10%)
 ***
 
 ## Task 3
