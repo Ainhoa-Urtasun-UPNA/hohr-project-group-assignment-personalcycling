@@ -6,8 +6,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: PersonalCycling
 * 
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991  - Motorcycle, Bicycle, and Parts Manufacturing
-* This U.S. industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, tricycles and similar equipment, and parts.
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991  - Motorcycle, Bicycle, and Parts Manufacturing. This U.S. industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, tricycles and similar equipment, and parts.
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
