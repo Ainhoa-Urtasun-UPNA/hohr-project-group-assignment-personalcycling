@@ -122,6 +122,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+In order to predict the firm's demand for workers, we have used python. We have taken into account the historical data on the demand for workers in each of the three occupations in the last three years (y). As well as historical data on the labor market indicator, for instance the unemployment rates for each occupation the last three years (x). The results we have gotten are 4.33, 12.4583 and 7.0416. As we are talking about workers, we round the numbers to integers. Therefore the demand for each ocupation is, 4 managers, 12 engineers and 7 operators. If we compare it to the result obtained on the last task about workers availability, we can clearly see that there is a shortage situation, where the demand is greter thant the availaibility of workers (4>1 , 12>1 and 7>2). As an upsizing strategy we (personal cylcling) should start hiring workers as well as increasing workweek and overtime.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
