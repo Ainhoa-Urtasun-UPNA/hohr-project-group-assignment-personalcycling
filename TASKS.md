@@ -153,13 +153,13 @@ In order to predict the firm's demand for workers, we have used python. We have 
  - Consider completing a Graduate Certificate focusing on supply chain management, operations or a similar field, or Master of Business Administration (MBA).
  - Gain experience in managing people and processes.
  ***
-*Job Type
+* Job Type
  - Full time job with flexible schedule. 
 ***
-*Location
+* Location
  - Pamplona 
  ***
-*Salary
+* Salary
   - 16,52€/hour 
  ***
 * Job vacancies:2
