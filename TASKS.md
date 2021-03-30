@@ -135,15 +135,13 @@ In order to predict the firm's demand for workers, we have used python. We have 
 *  336991
 ***
 *  What You Will Do?
-***
  - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction      or program improvement 
 - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. 
 -  Direct administrative activities directly related to making products or providing services. 
 - Prepare staff work schedules and assign specific duties. 
 - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. 
 ***
-* Who You Are:
-***
+* Who You Are/ Your Skills:
 - Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
 - Coordination: Adjusting actions in relation to others' actions. 
 - Monitoring: Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
@@ -156,15 +154,15 @@ In order to predict the firm's demand for workers, we have used python. We have 
  - Gain experience in managing people and processes.
  ***
 *Job Type
-- Full time job with flexible schedule. 
+ - Full time job with flexible schedule. 
 ***
 *Location
- -Pamplona 
+ - Pamplona 
  ***
 *Salary
-  -16,52€/hour 
+  - 16,52€/hour 
  ***
-*Job vacancies:2
+* Job vacancies:2
 ### Job posting for Engineers:
 * Industrial Engineering Technologists and Technicians
 ***
