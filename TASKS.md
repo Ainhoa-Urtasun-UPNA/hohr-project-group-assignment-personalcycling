@@ -192,12 +192,12 @@ In order to predict the firm's demand for workers, we have used python. We have 
 - You can chose either a full time job or part time.
 ***
 * Location
- -Pamplona
+ - Pamplona
  ***
 *  Salary 
  - 14,49/hour
  ***
- ** Job vacancies: 4
+ * Job vacancies: 4
 ### Job posting for Operators
 * Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
 ***
