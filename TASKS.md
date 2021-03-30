@@ -128,9 +128,12 @@ In order to predict the firm's demand for workers, we have used python. We have 
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
-*General and Operations Managers
+* General and Operations Managers
+***
 *  11-1021.00
+***
 *  336991
+***
 *  What You Will Do?
 ***
  - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction      or program improvement 
@@ -138,77 +141,101 @@ In order to predict the firm's demand for workers, we have used python. We have 
 -  Direct administrative activities directly related to making products or providing services. 
 - Prepare staff work schedules and assign specific duties. 
 - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. 
-* Who You Are
+***
+* Who You Are:
 ***
 - Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
 - Coordination: Adjusting actions in relation to others' actions. 
 - Monitoring: Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
 -  Social Perceptiveness: Being aware of others' reactions and understanding why they react as they do.
 -  Speaking: Talking to others to convey information effectively. 
-* Required credentials and years of experience 
+***
+* Required credentials and years of experience: 
  - Complete an undergraduate degree in business administration or a related field.
  - Consider completing a Graduate Certificate focusing on supply chain management, operations or a similar field, or Master of Business Administration (MBA).
  - Gain experience in managing people and processes.
+ ***
 *Job Type
 - Full time job with flexible schedule. 
+***
 *Location
  -Pamplona 
+ ***
 *Salary
   -16,52€/hour 
+ ***
 *Job vacancies:2
 ### Job posting for Engineers:
-** Industrial Engineering Technologists and Technicians
-** 17-3026.00 
-** 336991
-** What You Will Do?
+* Industrial Engineering Technologists and Technicians
+***
+* 17-3026.00 
+***
+* 336991
+***
+* What You Will Do?
 - Test selected products at specified stages in the production process for performance characteristics or adherence to specifications. 
 - Compile and evaluate statistical data to determine and maintain quality and reliability of products. 
 - Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency. 
 - Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications. 
 - Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance. 
- **Who You Are
+***
+ * Who You Are/ Your Skills:
 - Reading Comprehension — Understanding written sentences and paragraphs in work related documents. 
 -  Active Listening: Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
 -  Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
 - Complex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. 
 - MonitoringMonitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 
-** Required credentials and years of experience
+***
+* Required credentials and years of experience
 - Complete a Bachelor of Engineering majoring in Mechanical Engineering
 - Required labor experience of at least one year.
-** Job Type 
+***
+* Job Type 
 - You can chose either a full time job or part time.
-** Location
+***
+* Location
  -Pamplona
-** Salary 
+ ***
+*  Salary 
  - 14,49/hour
+ ***
  ** Job vacancies: 4
 ### Job posting for Operators
-** Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
-** 51-4081.00
-** 33691
-** What You Will Do?
+* Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+***
+* 51-4081.00
+***
+* 33691
+***
+* What You Will Do?
 - Observe machine operation to detect workpiece defects or machine malfunctions, adjusting machines as necessary. 
 - Set up and operate machines, such as lathes, cutters, shears, borers, millers, grinders, presses, drills, or auxiliary machines, to make metallic and plastic workpieces.
 - Inspect workpieces for defects, and measure workpieces to determine accuracy of machine operation, using rules, templates, or other measuring instruments 
 - Read blueprints or job orders to determine product specifications and tooling instructions and to plan operational sequences.
 - Start machines and turn handwheels or valves to engage feeding, cooling, and lubricating mechanisms. 
-** Who You Are
+***
+* Who You Are/Your skills:
 - Operation Monitoring: Watching gauges, dials, or other indicators to make sure a machine is working properly. 
 - Quality Control Analysis: Conducting tests and inspections of products, services, or processes to evaluate quality or performance. 
 - Operation and Control: Controlling operations of equipment or systems. 
 - Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
 - Monitoring: Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 
-** Required credentials and years of experience: 
+***
+* Required credentials and years of experience: 
 -  At least a High School Diploma will be required. 
 -  A community college or other schools courses certificate programs in operating metal and plastics machines wil be highly valued. 
 -  Experince in machine tools setting is needed. 
-** Job Type
+***
+* Job Type
 - Full time job with flexible schedule. 
-** Location
+***
+* Location
  - Pamplona
- ** Salary
+ ***
+ * Salary
  - 8€/hour
- ** Job vacancies: 3
+ ***
+ *  Job vacancies: 3
 ## Task 6
 * Objective: Create a website for your project
 ***
