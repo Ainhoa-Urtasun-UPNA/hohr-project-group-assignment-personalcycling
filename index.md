@@ -7,7 +7,12 @@ We intend to produce and offer customized products or items related to cycling u
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We need workers to carry out the following activities:
+Engineering --> Research and design the product.
+Operations --> Product development, selling, distribution, setting and repairing the printer.
+
+Management, finance and human resources.
+
 
 ```markdown
 Syntax highlighted code block
