@@ -3,7 +3,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name: PersonalCycling. Our intention is to produceand offer customized products or items related to cycling. Such as cycling saddles, handlebars, special shoes, baskets...
+* Your company's name: PersonalCycling. Our intention is to produce and offer customized products or items related to cycling. Such as cycling saddles, handlebars, special shoes, baskets...
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 336991 - Motorcycle, Bicycle, and Parts Manufacturing. This U.S. industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, tricycles and similar equipment, and parts.
 
