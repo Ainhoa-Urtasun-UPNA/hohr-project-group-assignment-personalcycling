@@ -1,9 +1,9 @@
 ## PersonalCycling
 The NAICS of our company is 336991 - Motorcycle, Bicycle, and Parts Manufacturing.
-Our intention is to produce and offer customized products or items related to cycling. 
+
 ![Image](bicihome-furia-1200x670.png)
 
-
+Our intention is to produce and offer customized products or items related to cycling. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
