@@ -1,6 +1,7 @@
 ## PersonalCycling
 
 Our intention is to produce and offer customized products or items related to cycling. 
+![bicihome-furia-1200x670.png](src)bicihome-furia-1200x670.png
 
 
 ### Markdown
