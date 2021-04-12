@@ -1,8 +1,7 @@
-## Personal Cycling
+## PersonalCycling
 
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our intention is to produce and offer customized products or items related to cycling. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
