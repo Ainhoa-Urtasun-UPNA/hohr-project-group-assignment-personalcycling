@@ -13,7 +13,7 @@ Operations --> Product development, selling, distribution, setting and repairing
 
 Management, finance and human resources.
 
-![Image](src)
+![Image](Captura de pantalla 2021-04-16)
 
 
 ```markdown
