@@ -13,7 +13,7 @@ Operations --> Product development, selling, distribution, setting and repairing
 
 Management, finance and human resources.
 
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/gh-pages/Captura%20de%20pantalla%202021-04-16%20a%20las%2011.10.07.png)
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/gh-pages/Captura%20de%20pantalla%202021-04-16%20a%20las%2011.17.02.png)
 
 
 ```markdown
