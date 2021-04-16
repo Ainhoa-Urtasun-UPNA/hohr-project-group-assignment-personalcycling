@@ -15,31 +15,7 @@ Management, finance and human resources.
 
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/gh-pages/Captura%20de%20pantalla%202021-04-16%20a%20las%2011.17.02.png)
 
+![Image](src)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
