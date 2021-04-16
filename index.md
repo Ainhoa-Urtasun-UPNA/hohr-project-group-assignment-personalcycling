@@ -13,6 +13,8 @@ Operations --> Product development, selling, distribution, setting and repairing
 
 Management, finance and human resources.
 
+![Image](src)
+
 
 ```markdown
 Syntax highlighted code block
