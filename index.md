@@ -5,7 +5,7 @@ The NAICS of our company is 336991 - Motorcycle, Bicycle, and Parts Manufacturin
 
 We intend to produce and offer customized products or items related to cycling using a 3D printer.
 
-![Image](src)
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/gh-pages/Captura%20de%20pantalla%202021-04-16%20a%20las%2011.31.51.png)
 
 We need workers to carry out the following activities:
 Engineering --> Research and design the product.
