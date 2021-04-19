@@ -17,7 +17,7 @@ Management, finance and human resources.
 
 ### Job Posting:
 
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/gh-pages/Captura%20de%20pantalla%202021-04-16%20a%20las%2011.17.02.png)
+![Image](1.png)
 
 
 
