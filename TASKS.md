@@ -198,8 +198,8 @@ In order to predict the firm's demand for workers, we have used python. We have 
 *  Salary 
  - 14,49/hour
  ***
- * With the information of this specific job's automatization risk, which is very low, 3%, and the predicted workers shortage, where we calculated a demand of 12 engineers and the availabilty of 1. We consider, taking into account the previously information, that we need 4 engineers. Seeing the low automatization riks percentage, we assume that engineers cannot be easily substituted by technology or machinery. However, as our company is not so big, we consider that 12 engineers is too much. To sum up, personal cycling requires 4 engineers. 
- * Job vacancies: 4
+ * With the information of this specific job's automatization risk, which is very low, 3%, and the predicted workers shortage, where we calculated a demand of 12 engineers and the availabilty of 1. We consider, taking into account the previously information, that we need 4 engineers. Seeing the low automatization riks percentage, we assume that engineers cannot be easily substituted by technology or machinery. However, as our company is not so big, we consider that 12 engineers is too much. To sum up, personal cycling requires 11 engineers. 
+ * Job vacancies: 11
 ### Job posting for Operators
 * Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
 ***
