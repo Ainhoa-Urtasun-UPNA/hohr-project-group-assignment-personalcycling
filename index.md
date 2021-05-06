@@ -19,6 +19,8 @@ Management, finance and human resources.
 
 ![Image](1.png)
 
+![Image](R1.png)
+
 
 
 
