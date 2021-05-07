@@ -1,3 +1,4 @@
+![Aitor_Irati_Hori](https://user-images.githubusercontent.com/76065712/117490299-e3eaa080-af6e-11eb-8877-b7b3631dc043.jpg)
 ## PersonalCycling
 The NAICS of our company is 336991 - Motorcycle, Bicycle, and Parts Manufacturing.
 
