@@ -21,6 +21,8 @@ Management, finance and human resources.
 
 ![Image](R1.png)
 
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-personalcycling/blob/main/r10.png)
+
 
 
 
